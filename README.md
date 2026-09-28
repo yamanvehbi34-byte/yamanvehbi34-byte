@@ -1,3 +1,3 @@
 Freshman at Bilkent University <br>
 Majoring in Computer Engineering <br>
-0 github contributions yet
+0 meaningful github contributions yet
